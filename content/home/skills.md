@@ -28,10 +28,6 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
-- description: 60%
-  icon: confluence
-  icon_pack: fab
-  name: Confluence
  
 
 # Uncomment to use emoji icons.
