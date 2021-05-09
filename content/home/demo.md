@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "Aqua"
-  gradient_end = "Black"
+  gradient_start = "White"
+  gradient_end = ""Red
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## 👋
 ##
 ##
 ##
