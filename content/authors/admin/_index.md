@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Christopher Nieters
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Plenty Unlimited Inc.
+  url: https://www.plenty.ag/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include plant physiology
 
 # Interests to show in About widget
 interests:
