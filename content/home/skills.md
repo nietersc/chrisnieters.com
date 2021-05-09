@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 75%
   icon: r-project
   icon_pack: fab
   name: R
@@ -28,6 +28,11 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+  - description: 60%
+  icon: confluence
+  icon_pack: fab
+  name: Confluence
+ 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
