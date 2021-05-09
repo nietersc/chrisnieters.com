@@ -19,6 +19,4 @@ title: Bio
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 
-
-<hr color="#c7c34c" size="2" width="100%">
 ---
