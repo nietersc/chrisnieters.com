@@ -24,8 +24,8 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-  - description: 60%
-  icon: confluence
+- description: 60%
+  icon: fa-confluence
   icon_pack: fab
   name: Confluence
 - description: 10%
