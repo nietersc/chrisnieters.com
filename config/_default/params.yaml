@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: M
 
@@ -22,9 +22,6 @@ twitter: ''
 
 email: nietersc@gmail.com
 phone: +1(307) 871-7888
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
 contact_links:
   - icon: twitter
     icon_pack: fab
