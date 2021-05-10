@@ -20,5 +20,3 @@ title: Bio
 author: admin
 
 ---
-
-<hr color="#c7c34c" size="2" width="100%">
