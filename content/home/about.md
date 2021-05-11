@@ -22,6 +22,6 @@ author: admin
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10px", "20px", "10px", "20px"]
+    padding: ["5px", "20px", "5px", "20px"]
 
 ---
