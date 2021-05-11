@@ -19,11 +19,6 @@ title: Bio
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 
+padding = ["0", "0", "0", "0"]
+
 ---
-
-+++
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0", "0", "0"]
-
-+++
