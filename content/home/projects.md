@@ -30,7 +30,7 @@ content:
   - name: Deep Learning
     tag: Deep Learning
   - name: Other
-    tag: Demo
+    tag: External Project
   - name: Stranger Greens
     tag: Remote Sensing
 
