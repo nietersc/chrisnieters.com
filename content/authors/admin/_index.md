@@ -5,10 +5,6 @@ title: Christopher Nieters
 # Is this the primary user of the site?
 superuser: true
 
-- icon: cv
-  icon_pack: ai
-  link: media/resume.pdf
-
 # Role/position/tagline
 role: Research Associate
 
