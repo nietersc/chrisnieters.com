@@ -53,7 +53,7 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
+- icon: cv
   icon_pack: ai
   link: media/resume.pdf
 
