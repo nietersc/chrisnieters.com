@@ -5,7 +5,7 @@ title: Christopher Nieters
 # Is this the primary user of the site?
 superuser: true
 
-icon: cv
+- icon: cv
   icon_pack: ai
   link: media/resume.pdf
 
@@ -72,4 +72,4 @@ highlight_name: false
 
 New crop research associate at Plenty Unlimited Co. My research interests include distributed robotics, mobile computing and programmable matter. Currently lead the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
