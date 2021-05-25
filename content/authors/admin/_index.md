@@ -12,12 +12,15 @@ role: Research Associate
 organizations:
 - name: Plenty Unlimited Inc.
   url: https://www.plenty.ag/
+  
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include plant physiology
 
 # Interests to show in About widget
 interests:
+- Controlled Environment Agriculture
 - Plant Stress Physiology
 - Dynamic Lighting
 - Carbon Partitioning & Source/Sink Dynamics
@@ -53,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/resume.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +69,4 @@ highlight_name: false
 
 New crop research associate at Plenty Unlimited Co. My research interests include distributed robotics, mobile computing and programmable matter. Currently lead the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
