@@ -5,6 +5,10 @@ title: Christopher Nieters
 # Is this the primary user of the site?
 superuser: true
 
+icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
+
 # Role/position/tagline
 role: Research Associate
 
@@ -13,8 +17,7 @@ organizations:
 - name: Plenty Unlimited Inc.
   url: https://www.plenty.ag/
   
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
-
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include plant physiology
 
