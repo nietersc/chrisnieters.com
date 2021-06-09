@@ -35,24 +35,24 @@ content:
     tag: Remote Sensing
 
 
+
+  
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
   view: 3
-
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
-  
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["10px", "20px", "10px", "20px"]
 
   
 ---
-# inserts Stranger Greens video directly on top of Projects section
-# <iframe src="https://player.vimeo.com/video/552689075" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+#inserts Stranger Greens video directly on top of Projects section
+#<iframe src="https://player.vimeo.com/video/552689075" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
