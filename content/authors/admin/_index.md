@@ -15,14 +15,14 @@ organizations:
   
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include plant physiology
+bio: Farms | Fluxes | Photons | Phys
 
 # Interests to show in About widget
 interests:
-- Controlled Environment Agriculture
-- Plant Stress Physiology
-- Dynamic Lighting
-- Carbon Partitioning & Source/Sink Dynamics
+- Controlled environment agriculture
+- Systemic plant stress physiology
+- Carbon partitioning & source/sink dynamics
+- Dynamic farm inputs based on plant developmental stage
 
 # Education to show in About widget
 education:
@@ -66,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-New crop research associate at Plenty Unlimited Co. My research interests include distributed robotics, mobile computing and programmable matter. Currently lead the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wyoming native and aspiring plant scientist
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
