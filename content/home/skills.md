@@ -16,18 +16,6 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 2+ years
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 2+ years
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 1+ year
-  icon: confluence
-  icon_pack: fab
-  name: Confluence
 - description: 3+ years
   icon: bolt
   icon_pack: fas
@@ -40,6 +28,19 @@ feature:
   icon: pagelines
   icon_pack: fab
   name: Plant Physiology
+- description: 2+ years
+  icon: r-project
+  icon_pack: fab
+  name: R Programming
+- description: 2+ years
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- description: < 1 year
+  icon: python
+  icon_pack: fab
+  name: Python Programming
+
 
 
 # Uncomment to use emoji icons.
