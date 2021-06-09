@@ -28,7 +28,7 @@ feature:
   icon: pagelines
   icon_pack: fab
   name: Plant Physiology
-- description: 2+ years
+- description: 3+ years
   icon: r-project
   icon_pack: fab
   name: R Programming
