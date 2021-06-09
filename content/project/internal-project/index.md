@@ -11,7 +11,6 @@ date: "2016-04-27T00:00:00Z"
 
 image:
   caption: DJI Mavic Air 2 - Haldon Forest
-by AndrewCampbellPhoto
   focal_point: Smart
 ---
 
