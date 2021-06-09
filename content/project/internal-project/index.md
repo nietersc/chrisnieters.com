@@ -10,7 +10,7 @@ date: "2016-04-27T00:00:00Z"
 #external_link: http://example.org
 
 image:
-  caption: DJI Mavic Air 2 - Haldon Forest
+  caption: Haldon Forest by AndrewCampbellPhoto
   focal_point: Smart
 ---
 
