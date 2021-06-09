@@ -29,15 +29,15 @@ feature:
   icon_pack: fab
   name: Confluence
 - description: 3+ years
-  icon: fa-bolt
+  icon: bolt
   icon_pack: fas
   name: Chl A Fluorescence
 - description: 3+ years
-  icon: fa-atom
+  icon: atom
   icon_pack: fas
   name: Infrared Gas Analysis
 - description: 4+ years
-  icon: fa-pagelines
+  icon: pagelines
   icon_pack: fab
   name: Plant Physiology
 
