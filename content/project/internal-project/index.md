@@ -18,7 +18,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-   slides: example
+#   slides: example
 ---
 
 A silver-medal winning undergraduate video submission for Vegetation Ecology (Course Level?) covering the stranger side of landscape reflectance. I'm going to try and make this section a bit longer to make this look like a legitimate website entry. I'm not sure how long it will need to be to look nice, so I'm just going to kind of ramble on here for a few sentences just to get an idea of the ideal length of an entry. Let's see how this looks!
