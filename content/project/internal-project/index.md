@@ -10,8 +10,8 @@ date: "2016-04-27T00:00:00Z"
 #external_link: "https://player.vimeo.com/video/552689075"
 
 image:
- caption: DJI Mavic Air 2 - Haldon Forest by: AndrewCampbellPhoto
- focal_point: Smart
+caption: DJI Mavic Air 2 - Haldon Forest by: AndrewCampbellPhoto
+focal_point: Smart
 
 
 # Slides (optional).
