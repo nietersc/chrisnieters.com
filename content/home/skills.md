@@ -32,7 +32,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R Programming
-- description: 2+ years
+- description: 3+ years
   icon: chart-line
   icon_pack: fas
   name: Statistics
