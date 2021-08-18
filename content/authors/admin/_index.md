@@ -66,6 +66,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Broad undergraduate research experience in plant physiological ecology lab at the University of Wyoming, assisting with topics ranging from forest ecology to crop stress physiology in growth chamber experiments. Current research broadly examines and quantifies crop physiological response to light and other environmental inputs. 
+Broad undergraduate research experience in plant physiological ecology lab, assisting with topics ranging from forest ecology to crop stress physiology in growth chamber experiments. Current commercial research broadly examines and quantifies crop physiological response to light and other environmental inputs. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
