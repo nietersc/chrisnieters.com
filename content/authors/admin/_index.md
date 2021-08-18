@@ -24,7 +24,6 @@ interests:
 - Light quality effects on plant biology
 - Remote & non-destructive sensing
 - Source/sink dynamics
-- 
 
 # Education to show in About widget
 education:
