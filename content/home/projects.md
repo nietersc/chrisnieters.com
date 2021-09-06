@@ -27,10 +27,6 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: External Project
   - name: Stranger Greens
     tag: Remote Sensing
 
