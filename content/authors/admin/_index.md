@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.S. Botany
+  - course: BSc Botany
     institution: University of Wyoming
     year: 2017
 
