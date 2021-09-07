@@ -36,14 +36,22 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R Programming
-- description: 3+ years
-  icon: chart-line
+- description: 1+ years
+  icon: expand
   icon_pack: fas
-  name: Statistics
+  name: ImageJ
+- description: 1+ years
+  icon: confluence
+  icon_pack: fab
+  name: Confluence
 - description: < 1 year
   icon: python
   icon_pack: fab
   name: Python Programming
+- description: 2+ years
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
 
 
 
