@@ -24,6 +24,10 @@ feature:
   icon: atom
   icon_pack: fas
   name: Infrared Gas Analysis
+- description: 5+ years
+  icon: layer-group
+  icon_pack: fas
+  name: Controlled Environment Agriculture
 - description: 4+ years
   icon: pagelines
   icon_pack: fab
