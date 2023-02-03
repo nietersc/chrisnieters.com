@@ -6,24 +6,24 @@ title: Christopher Nieters
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Graduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Plenty Unlimited Inc.
-  url: https://www.plenty.ag/
+- name: University of Georgia
+  url: https://ferrarezilab.uga.edu/
   
   
 # Short bio (displayed in user profile at end of posts)
-bio: Phys | Fluxes | Photons | Fluorescence
+bio: Nutes | Phys | Fluxes | Fluorescence
 
 # Interests to show in About widget
 interests:
 - Controlled environment agriculture
-- Systemic plant physiology
-- Light quality effects on plant biology
+- Plant nutrition and physiology
+- Biostimulants and plant associated microbiomes
 - Remote & non-destructive sensing
-- Source/sink dynamics
+- Food security and resource sustainability
 
 # Education to show in About widget
 education:
@@ -31,6 +31,10 @@ education:
   - course: BSc Botany
     institution: University of Wyoming
     year: 2017
+
+  - course: MSc Horticulture
+    institution: University of Georgia
+    year: Current
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,11 +65,11 @@ social:
 #  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "nietersc@uga.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Broad undergraduate research experience working in a plant physiological ecology lab - assisting with a range and scale of topics from landscape ecology to photosystem stress physiology in growth chamber experiments. My current work in vertical farming research examines and quantifies crop physiological response to light and other environmental inputs. 
+Broad research and industry experience, with a primary focus on plant physiology in hydroponic production systems. My current research centers around methods of hydroponic fertilizer solution management in vertical farms to identify best-practices for reducing water and fertilizer waste while optimizing plant growth and development. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
