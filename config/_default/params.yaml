@@ -5,10 +5,9 @@
 
 # Appearance
 appearance:
-  theme: strawberry
   day_night: true
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: 1950s
+  theme_night: dark
   font: minimal
   font_size: M
 
@@ -35,7 +34,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: 2
   show_logo: true
   show_language: false
   show_day_night: true
