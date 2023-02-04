@@ -30,4 +30,3 @@ sections:
       columns: '1'
 
 ---
-<br>
