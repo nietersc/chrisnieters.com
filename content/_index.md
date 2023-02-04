@@ -17,28 +17,26 @@ sections:
     content:
       title: Skills
       items:
-        - name: R Programming
-          description: 4+ years
-          icon: r-project
-          icon_pack: fab
-        - name: Chl A Fluorescence
-          description: 4+ years
-          icon: bolt
-          icon_pack: fas
-        - name: Infrared Gas Analysis
-          description: 4+ years
-          icon: atom
-          icon_pack: fas
-        - name: Controlled Environment Agriculture
-          description: 4+ years
-          icon: layer-group
-          icon_pack: fas
-        - name: LED Lighting
-          description: 5+ years
-          icon: pagelines
-          icon_pack: fab
-
-
+        - description: 4+ years
+        icon: r-project
+        icon_pack: fab
+        name: R Programming
+        - description: 4+ years
+        icon: bolt
+        icon_pack: fas
+        name: Chl A Fluorescence
+        - description: 4+ years
+        icon: atom
+        icon_pack: fas
+        name: Infrared Gas Analysis
+        - description: 3+ years
+        icon: layer-group
+        icon_pack: fas
+        name: LED Lighting
+        - description: 5+ years
+        icon: pagelines
+        icon_pack: fab
+        name: Plant Physiology
   - block: experience
     content:
       title: Experience
