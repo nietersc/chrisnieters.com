@@ -13,23 +13,37 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+      design:
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["5px", "20px", "5px", "20px"]
   - block: features
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-  - block: experience
+        - description: 4+ years
+        icon: r-project
+        icon_pack: fab
+        name: R Programming
+        - description: 4+ years
+        icon: bolt
+        icon_pack: fas
+        name: Chl A Fluorescence
+        - description: 4+ years
+        icon: atom
+        icon_pack: fas
+        name: Infrared Gas Analysis
+        - description: 3+ years
+        icon: layer-group
+        icon_pack: fas
+        name: LED Lighting
+        - description: 5+ years
+        icon: pagelines
+        icon_pack: fab
+        name: Plant Physiology
+
+
+
     content:
       title: Experience
       # Date format for experience
