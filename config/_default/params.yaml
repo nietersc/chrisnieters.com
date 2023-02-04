@@ -62,7 +62,7 @@ locale:
 features:
   syntax_highlighter:
     theme_light: earth
-    theme_dark: dracula
+    theme_dark: earth
   math:
     enable: false
   privacy_pack:
