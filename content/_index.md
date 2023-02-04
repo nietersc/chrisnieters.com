@@ -11,7 +11,6 @@ sections:
       username: admin
       text: 
     design:
-      align: 'l'
       background:
         video:
           path: intro.mp4
@@ -21,6 +20,7 @@ sections:
       css_class: d-flex align-items-center fullscreen
   - block: markdown
     content:
+      align: 'l'
       title: 'Bio'
       subtitle: '______________________________________________________________________________________________________________________________________________________________________________________________________________'
       text: |-
