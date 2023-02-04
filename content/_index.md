@@ -24,7 +24,7 @@ sections:
       title: '**Bio**'
       subtitle: ''
       text: |-
-        Broad undergraduate research experience working in a plant physiological ecology lab - assisting with a range and scale of topics from landscape ecology to photosystem stress physiology in growth chamber experiments. My current work in vertical farming research examines and quantifies crop physiological response to light and other environmental inputs. 
+        Broad research and industry experience, with a primary focus on plant physiology in hydroponic production systems. My current research centers around methods of hydroponic fertilizer solution management in vertical farms to identify best-practices for reducing water and fertilizer waste. 
     design:
       columns: '1'
 
