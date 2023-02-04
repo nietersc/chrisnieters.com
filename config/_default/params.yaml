@@ -1,16 +1,15 @@
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
+#
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-appearance:
-  day_night: true
-  theme_day: strawberry
-  theme_night: dark
-  font: minimal
-  font_size: M
 
+theme: strawberry dark
+day_night: false
+font: minimal
+font_size: L
 
 # SEO
 
@@ -20,20 +19,29 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
+# Contact
 
-email: nietersc@gmail.com
-phone: +1(307) 871-7888
+email: test@example.org
+phone: 888 888 88 88
+# appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/nieters'
+    link: 'https://twitter.com/Twitter'
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: 'skype:echo123?call'
+  - icon: video
+    icon_pack: fas
+    name: Zoom Me
+    link: 'https://zoom.com'
 
 # Site header
 
 main_menu:
-  enable: true
+  enable: false
   align: l
   show_logo: true
   show_language: false
@@ -49,7 +57,8 @@ address_format: en-us
 
 # Site features
 
-highlight: true
+require_isotope: false  # If your site uses Portfolio widget, remove this line!
+highlight: false
 highlight_languages:
   - r
 math: false
@@ -62,9 +71,7 @@ edit_page:
   editable:
     page: false
     post: false
-    book: false
 show_related:
-  book: true
   page: false
   post: true
   project: true
@@ -80,7 +87,7 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-abstract_length: 50
+abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
@@ -109,7 +116,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: ''
   algolia:
     app_id: ''
     api_key: ''
@@ -123,11 +130,9 @@ marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
 cms:
-  branch: master
+  branch: main
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false
