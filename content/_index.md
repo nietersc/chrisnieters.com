@@ -7,7 +7,6 @@ type: landing
 sections:
   - block: about.avatar
     id: about
-    align: l
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
@@ -41,9 +40,7 @@ sections:
         icon: pagelines
         icon_pack: fab
         name: Plant Physiology
-
-
-
+  - block: experience
     content:
       title: Experience
       # Date format for experience
