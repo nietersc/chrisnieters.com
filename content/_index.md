@@ -12,16 +12,12 @@ sections:
       text: 
     design:
       background:
+        video:
+          path: intro.mp4
+          flip: true
         color: black
-        text_color_light: true
-        image:
-          # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
+      columns: '1'
+      css_class: d-flex align-items-center fullscreen
   - block: markdown
     content:
       title: 'Welcome 👋'
