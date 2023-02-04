@@ -7,7 +7,7 @@
 
 theme: strawberry
 day_night: true
-font: 'Mr Robot'
+font: ''
 font_size: M
 
 # SEO
@@ -34,7 +34,6 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
     show_search: true
     highlight_active_link: true
 
@@ -42,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Chris Nieters. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -60,14 +59,14 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    theme_light: strawberry
+    theme_dark: dark
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/nietersc'
     content_dir: content
     branch: main
   avatar:
