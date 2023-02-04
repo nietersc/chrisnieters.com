@@ -23,7 +23,7 @@ sections:
       title: 'Bio'
       subtitle: '______________________________________________________________________________________________________________________________________________________________________________________________________________'
       text: |-
-        Broad research and industry experience, with a primary focus on plant physiology in hydroponic production systems. My current research centers around methods of hydroponic fertilizer solution management in vertical farms to identify best-practices for reducing water and fertilizer waste. <br>
+        Broad controlled environment agriculture research and industry experience, with a primary focus on plant physiology in hydroponic production systems. My current research centers around methods of hydroponic fertilizer solution management in vertical farms to identify best-practices for reducing water and fertilizer waste. <br>
         _______________________________________________________________________________________________________________________________________________________________________________________________________________________
     design:
       columns: '1'
