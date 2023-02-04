@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: strawberry
+  theme_day: custom
   theme_night:
   font: minimal
   font_size: L
@@ -61,7 +61,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
+    theme_light: strawberry
     theme_dark: dracula
   math:
     enable: false
