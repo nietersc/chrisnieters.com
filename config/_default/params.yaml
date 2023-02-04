@@ -5,11 +5,10 @@
 
 # Appearance
 
-appearance:
-  theme_day: custom
-  theme_night:
-  font: rose
-  font_size: L
+theme: strawberry
+day_night: true
+font: 'Mr Robot'
+font_size: M
 
 # SEO
 
