@@ -10,7 +10,7 @@ role: '**Graduate Research Assistant**'
 
 # Organizations/Affiliations
 organizations:
-- name: '**University of Georgia**'
+- name: University of Georgia
   url: "https://ferrarezilab.uga.edu/"
 
 # Short bio (displayed in user profile at end of posts)
