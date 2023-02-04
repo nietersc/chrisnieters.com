@@ -8,15 +8,15 @@ sections:
   - block: about.avatar
     id: about
     align: l
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["5px", "20px", "5px", "20px"]
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-      design:
-      spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["5px", "20px", "5px", "20px"]
   - block: features
     content:
       title: Skills
