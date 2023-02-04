@@ -18,16 +18,22 @@ sections:
         color: black
       columns: '1'
       css_class: d-flex align-items-center fullscreen
+
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: '**Bio**'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+Broad undergraduate research experience working in a plant physiological ecology lab - assisting with a range and scale of topics from landscape ecology to photosystem stress physiology in growth chamber experiments. My current work in vertical farming research examines and quantifies crop physiological response to light and other environmental inputs. 
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+
     design:
       columns: '1'
+
+<br>
+<br>
+
   - block: collection
     content:
       title: Recent News
