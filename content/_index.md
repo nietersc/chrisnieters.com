@@ -17,6 +17,7 @@ sections:
     content:
       title: Skills
       items:
+<<<<<<< HEAD
         - description: 4+ years
         icon: r-project
         icon_pack: fab
@@ -37,6 +38,30 @@ sections:
         icon: pagelines
         icon_pack: fab
         name: Plant Physiology
+=======
+        - name: R Programming
+          description: 4+ years
+          icon: r-project
+          icon_pack: fab
+        - name: Chl A Fluorescence
+          description: 4+ years
+          icon: bolt
+          icon_pack: fas
+        - name: Infrared Gas Analysis
+          description: 4+ years
+          icon: atom
+          icon_pack: fas
+        - name: Controlled Environment Agriculture
+          description: 4+ years
+          icon: layer-group
+          icon_pack: fas
+        - name: LED Lighting
+          description: 5+ years
+          icon: pagelines
+          icon_pack: fab
+
+
+>>>>>>> parent of 79559df (Update _index.md)
   - block: experience
     content:
       title: Experience
