@@ -40,8 +40,8 @@ sections:
           icon_pack: fas
         - name: Hydroponic Nutrition
           description:
-          icon: fa-flask-vial
-          icon_pack: fa-solid
+          icon: flask-vial
+          icon_pack: fas
 
   - block: experience
     content:
