@@ -6,9 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
-  font: 'minimal'
+  theme_day: strawberry
+  theme_night: dark
+  font: rose
+  font_size: m
 
 # SEO
 
@@ -60,8 +61,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: strawberry
-    theme_dark: dark
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
