@@ -17,18 +17,27 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: R Programming
+          description: 4+ years
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Chl A Fluorescence
+          description: 4+ years
+          icon: bolt
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Infrared Gas Analysis
+          description: 4+ years
+          icon: atom
           icon_pack: fas
+        - name: Controlled Environment Agriculture
+          description: 4+ years
+          icon: layer-group
+          icon_pack: fas
+        - name: LED Lighting
+          description: 5+ years
+          icon: pagelines
+          icon_pack: fab
+
 
   - block: experience
     content:
