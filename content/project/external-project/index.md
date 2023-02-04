@@ -32,6 +32,8 @@ publication_short: In *ASHS 2021*
 # Display this page in the Featured widget?
 featured: true
 
+font_size: m
+
 
 ---
 
