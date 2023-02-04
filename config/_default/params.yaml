@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: strawberry
-day_night: true
-font: ''
-font_size: M
+appearance:
+  theme_day: custom
+  theme_night: custom
+  font: 'minimal'
 
 # SEO
 
@@ -34,6 +34,7 @@ header:
     align: l
     show_logo: true
     show_language: false
+    show_day_night: true
     show_search: true
     highlight_active_link: true
 
