@@ -25,14 +25,8 @@ sections:
       subtitle: ''
       text: |-
         Broad undergraduate research experience working in a plant physiological ecology lab - assisting with a range and scale of topics from landscape ecology to photosystem stress physiology in growth chamber experiments. My current work in vertical farming research examines and quantifies crop physiological response to light and other environmental inputs. 
-
-        {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
-
     design:
       columns: '1'
-
-<br>
-<br>
 
   - block: collection
     content:
