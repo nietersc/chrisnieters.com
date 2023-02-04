@@ -10,8 +10,8 @@ date: "2016-04-27T00:00:00Z"
 #external_link: http://example.org
 
 video:
-          path: <iframe src="https://player.vimeo.com/video/552689075" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-          flip: true
+    path: <iframe src="https://player.vimeo.com/video/552689075" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    flip: true
 ---
 
 The silver-medal winning undergraduate video submission for the Vegetation Ecology course from the University of Wyoming covering the stranger side of landscape reflectance.
