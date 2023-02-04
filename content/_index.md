@@ -11,6 +11,7 @@ sections:
       username: admin
       text: 
     design:
+      align: left
       background:
         video:
           path: intro.mp4
