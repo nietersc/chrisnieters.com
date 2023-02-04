@@ -8,9 +8,6 @@ sections:
   - block: about.avatar
     id: about
     design:
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["5px", "20px", "5px", "20px"]
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
