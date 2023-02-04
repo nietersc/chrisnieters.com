@@ -19,21 +19,29 @@ sections:
       title: Skills
       items:
         - name: Chl A Fluorescence
-          description: 3+ years
+          description:
           icon: bolt
           icon_pack: fas
+        - name: Infrared Gas Analysis
+          description:
+          icon: atom
+          icon_pack: fas
+        - name: Plant Physiology
+          description:
+          icon: pagelines
+          icon_pack: fab
         - name: R Programming
-          description: 4+ years
+          description:
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 2+ years
+          description:
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Hydroponic Nutrition
+          description:
+          icon: fa-flask-vial
+          icon_pack: fa-solid
 
   - block: experience
     content:
