@@ -20,14 +20,13 @@ sections:
       css_class: d-flex align-items-center fullscreen
   - block: markdown
     content:
-      align: left
       title: 'Bio'
       subtitle: '______________________________________________________________________________________________________________________________________________________________________________________________________________'
       text: |-
         Broad research and industry experience, with a primary focus on plant physiology in hydroponic production systems. My current research centers around methods of hydroponic fertilizer solution management in vertical farms to identify best-practices for reducing water and fertilizer waste. <br>
         _______________________________________________________________________________________________________________________________________________________________________________________________________________________
-        <br> <br>
     design:
       columns: '1'
+      align: left
 
 ---
