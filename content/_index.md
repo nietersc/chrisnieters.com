@@ -21,7 +21,7 @@ sections:
 
   - block: markdown
     content:
-      title: '**Bio**'
+      title: 'Bio'
       subtitle: ''
       text: |-
         Broad research and industry experience, with a primary focus on plant physiology in hydroponic production systems. My current research centers around methods of hydroponic fertilizer solution management in vertical farms to identify best-practices for reducing water and fertilizer waste. 
@@ -55,3 +55,4 @@ sections:
       view: compact
       columns: '1'
 ---
+<br>
