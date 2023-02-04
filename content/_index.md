@@ -10,14 +10,18 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: 
-design:
-  background:
-    video:
-      path: intro.mp4
-      flip: true
-    color: black
-  columns: '1'
-  css_class: d-flex align-items-center fullscreen
+    design:
+      background:
+        color: black
+        text_color_light: true
+        image:
+          # Add your image background to `assets/media/`.
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: 'Welcome 👋'
