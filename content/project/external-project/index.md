@@ -28,27 +28,8 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: In *American Society for Horticultural Science 2021*
 publication_short: In *ASHS 2021*
+url_pdf: example
 
-projects:
-- internal-project
-publication: In *Source Themes Conference*
-publication_short: In *STC*
-publication_types:
-- "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
 
 ---
 
