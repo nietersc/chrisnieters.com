@@ -28,7 +28,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: In *American Society for Horticultural Science 2021*
 publication_short: In *ASHS 2021*
-url_pdf: example
+url_pdf: static/uploads/cn_ashs2021.pdf
 
 
 ---
