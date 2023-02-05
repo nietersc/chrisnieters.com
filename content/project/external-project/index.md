@@ -19,7 +19,7 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
-url_pdf: static/uploads/cn_ashs2021.pdf
+pdf: static/uploads/cn_ashs2021.pdf
 ---
 
 <font size="3">
