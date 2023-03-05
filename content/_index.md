@@ -23,7 +23,7 @@ sections:
       title: 'Bio'
       subtitle: '______________________________________________________________________________________________________________________________________________________________________________________________________________'
       text: |-
-        Broad experience in controlled environment agriculture in academia and industry, with a primary focus on plant physiological responses in hydroponic production systems. My current research centers around methods of hydroponic fertilizer solution management in vertical farms to identify best-practices for reducing water and fertilizer waste. <br>
+        Controlled environment agriculture researcher with experience in applied industry R&D and academia. I enjoy exploring plant physiological responses in CEA production systems as well as learning more ways to make food production systems more resillient, accessible, and efficient. My master's research is focused on comparing a spectrum of broad to targeted control of hydroponic nutrient solution management strategies in multiple light and production regimes to better understand the impacts of these factors on plant performance and farm resource use. 
         _______________________________________________________________________________________________________________________________________________________________________________________________________________________
     design:
       columns: '1'

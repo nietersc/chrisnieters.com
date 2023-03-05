@@ -1,5 +1,5 @@
 ---
-title: "Cotyledon Competency in CEA:"
+title: "Cotyledon Competency in CEA"
 subtitle: "Light Response Curve Analysis across Emerging Mizuna Leaf Tissues"
 
 # Authors
