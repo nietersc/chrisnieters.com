@@ -3,7 +3,7 @@ title: Research
 cms_exclude: true
 
 # View
-view: card
+view: compact
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
