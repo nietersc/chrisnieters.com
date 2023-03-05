@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: cyberpunk
-  theme_night: 
+  theme_day: strawberry 
+  theme_night: dark
   font: minimal
   font_size: L
 
@@ -93,7 +93,7 @@ features:
   map:
     provider: ''
     api_key: ''
-    zoom: 15
+    zoom: 25
 
 # Extensions
 
