@@ -14,7 +14,7 @@ organizations:
   url: "https://ferrarezilab.uga.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include photobiology, plant nutrition, and remote sensing.
+bio: Photons | Fluxes | Phytonutrients
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -23,7 +23,7 @@ sections:
       title: 'Bio'
       subtitle: '______________________________________________________________________________________________________________________________________________________________________________________________________________'
       text: |-
-        Controlled environment agriculture researcher with experience in applied industry R&D and academia. I enjoy exploring plant physiological responses in CEA production systems as well as learning more ways to make food production systems more resillient, accessible, and efficient. My master's research is focused on comparing a spectrum of broad to targeted control of hydroponic nutrient solution management strategies in multiple light and production regimes to better understand the impacts of these factors on plant performance and farm resource use. 
+        CEA researcher with experience in applied industry R&D. My current master's research is focused on the impact of hydroponic nutrient solution management strategies and light intensity on leafy green production in a vertical farm. My areas of research interest include plant physiology, nutrition, photobiology, and phytopharmaceuticals. 
         _______________________________________________________________________________________________________________________________________________________________________________________________________________________
     design:
       columns: '1'
